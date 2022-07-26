@@ -1,7 +1,7 @@
-Hello, getting started with grapping the basic understanding of JS, now i am moving forword, the goal right now is following 
-a course named "JavaScript tutorial and Projects" from John Smilga. I also bought his Course about React which i am going to learn right after this.
+Hello, getting started with grapping the basic understanding of JS, now  am moving forword, the goal right now is following 
+a course named "JavaScript tutorial and Projects" from John Smilga. I also bought his Course about React, which I am going to learn right after this.
 
-IMPORTANT. ONLY the Javascript part is the goal of the mentiened tutorial and the Css file is been pre-written.I only typed and fully understand the javaScript part.  
+IMPORTANT. ONLY the Javascript part is the goal of the mentiened tutorial and the Css file is been pre-written. I only typed and fully understand the javaScript part.  
 
 Here is the overview of the DOM objects from John's website: https://www.vanillajavascriptprojects.com/
 
