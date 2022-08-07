@@ -10,3 +10,5 @@ Codes updated here only indicates my progress in this tutorial and the codes are
 Update-26.7 
 Few tinny projects down with John, which are Counter, Reviews and few quite similar projects which are navbar,sidebar and modal.I choose to upload the Counter and Modal in this period.
 
+Update-5.8 
+More tinny projects down with John
